@@ -41,37 +41,4 @@ Clone this repository or download the files:
 git clone https://github.com/Josebrown92/week-4-work.git
 
 
-Open the project folder.
-
-Open index.html in your browser.
-
-⚙️ Customization
-
-Logo → Edit in index.html under <h1 class="logo">.
-
-Hero Background → Change the background property in .hero (style.css).
-
-Services → Update the <div class="card"> elements in index.html.
-
-About Image → Replace security.jpg with your own image.
-
-Contact Form → Currently frontend only. To make it functional, connect to a backend (PHP, Node.js, or Formspree/Netlify).
-
-📱 Responsiveness
-
-Desktop → 3–4 column layout
-
-Tablet → 2 column layout
-
-Mobile → 1 column layout
-(Handled with media queries in style.css)
-
-📜 License
-
-This project is licensed under the MIT License — you’re free to use, modify, and distribute it for personal or commercial use.
-
-✨ Credits
-
-Unsplash for free images.
-
-Built with ❤️ using HTML5 & CSS3.
+HTML5 & CSS3.
