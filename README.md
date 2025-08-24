@@ -38,7 +38,7 @@ Light Gray (#F3F4F6)
 
 Clone this repository or download the files:
 
-git clone https://github.com/yourusername/shield-security.git
+git clone https://github.com/Josebrown92/week-4-work.git
 
 
 Open the project folder.
